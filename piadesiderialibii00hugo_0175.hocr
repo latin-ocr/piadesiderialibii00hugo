@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./piadesiderialibii00hugo_0175.png"; bbox 0 0 1686 2828; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 158 705 1276 779">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 158 705 1276 779">
+     <span class='ocr_line' id='line_1_1' title="bbox 158 705 1276 779; baseline -0.006 0"><span class='ocrx_word' id='word_1_1' title='bbox 158 705 509 779; x_wconf 88' lang='lat' dir='ltr'><strong>LIBER</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 607 706 1276 776; x_wconf 86' lang='lat' dir='ltr'>SECVNDVS.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 349 1026 1223 1146">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 349 1026 1223 1146">
+     <span class='ocr_line' id='line_1_2' title="bbox 349 1026 1223 1146; baseline -0.006 -3"><span class='ocrx_word' id='word_1_3' title='bbox 349 1026 1223 1146; x_wconf 79' lang='lat' dir='ltr'><strong>VQTA.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 171 1414 1264 1486">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 171 1414 1264 1486">
+     <span class='ocr_line' id='line_1_3' title="bbox 171 1414 1264 1486; baseline -0.003 0"><span class='ocrx_word' id='word_1_4' title='bbox 171 1415 600 1486; x_wconf 84' lang='lat' dir='ltr'>ANIMAE</span> <span class='ocrx_word' id='word_1_5' title='bbox 706 1414 1264 1485; x_wconf 74' lang='lat' dir='ltr'><strong>SANCTAE.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

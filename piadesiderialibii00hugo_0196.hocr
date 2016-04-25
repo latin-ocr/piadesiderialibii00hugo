@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./piadesiderialibii00hugo_0196.png"; bbox 0 0 1686 2828; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 331 62 1174 127">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 331 62 1174 127">
+     <span class='ocr_line' id='line_1_1' title="bbox 331 62 1174 127; baseline -0.02 0"><span class='ocrx_word' id='word_1_1' title='bbox 331 78 438 127; x_wconf 66' lang='grc' dir='ltr'><em>τέο</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 845 62 1174 118; x_wconf 68' lang='lat' dir='ltr'>VotA.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 422 274 1506 1991">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 422 274 1506 1991">
+     <span class='ocr_line' id='line_1_2' title="bbox 422 274 1506 1991; baseline 0 0"><span class='ocrx_word' id='word_1_3' title='bbox 422 274 1506 1991; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 421 1930 1462 2088">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 421 1930 1462 2088">
+     <span class='ocr_line' id='line_1_3' title="bbox 538 1930 1453 2009; baseline -0.016 -19"><span class='ocrx_word' id='word_1_4' title='bbox 538 1944 645 2008; x_wconf 61' lang='lat' dir='ltr'><em>efike</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 659 1942 819 2009; x_wconf 54' lang='lat' dir='ltr'><em>Arefflfs</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 843 1958 942 2005; x_wconf 65' lang='lat' dir='ltr'><em>mfas</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 977 1935 1182 1996; x_wconf 73' lang='lat' dir='ltr'><em>infimz&#39;tz&#39;s</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 1212 1930 1453 1981; x_wconf 71' lang='lat' dir='ltr'><em>tui5,vtnen</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 421 2004 1462 2088; baseline -0.026 -17"><span class='ocrx_word' id='word_1_9' title='bbox 421 2018 425 2037; x_wconf 66' lang='lat'><em>&#39;⁵</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 512 2028 729 2066; x_wconf 67' lang='lat' dir='ltr'><strong><em>moueantur</em></strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 756 2004 922 2075; x_wconf 59' lang='lat' dir='ltr'><em>vcs‘Pg&#39;qia</em></span> <span class='ocrx_word' id='word_1_12' title='bbox 941 2032 1046 2056; x_wconf 61' lang='lat' dir='ltr'><em>mea,</em></span> <span class='ocrx_word' id='word_1_13' title='bbox 1077 2014 1163 2069; x_wconf 50' lang='lat' dir='ltr'><em>Pfal,</em></span> <span class='ocrx_word' id='word_1_14' title='bbox 1198 2023 1237 2051; x_wconf 60' lang='grc' dir='ltr'><em>ω’,</em></span> <span class='ocrx_word' id='word_1_15' title='bbox 1408 2040 1462 2088; x_wconf 57' lang='lat'><em>28</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
